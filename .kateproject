@@ -1,0 +1,4 @@
+{
+  "name": "hello_erlang"
+, "files": [ { "directory": ".", "recursive": 1 } ]
+}
